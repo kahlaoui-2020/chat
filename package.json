@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "front": "cd chatFront && npm start",
+        "back": "cd chat-back && npm run start:dev",
+        "start": "concurrently \"npm run front\" \"npm run back\""
+    
+    },
+    "devDependencies": {
+        "concurrently": "1.0.0"
+    }
+}
