@@ -1,6 +1,4 @@
 [submodule "chat-back"]
 	path = chat-back
 	url = https://github.com/kahlaoui-2020/chat-back.git
-[submodule "chatFront"]
-	path = chatFront
-	url = https://github.com/kahlaoui-2020/chatFront.git
+
